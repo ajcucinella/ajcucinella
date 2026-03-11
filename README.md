@@ -1,16 +1,29 @@
-## Hi there 👋
+# Anthony Cucinella
 
-<!--
-**ajcucinella/ajcucinella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+U.S. Army veteran and technical problem solver transitioning into IT infrastructure and cloud technologies.
 
-Here are some ideas to get you started:
+My background includes 15+ years diagnosing complex mechanical and electrical systems as a heavy-duty diesel technician. I specialize in troubleshooting multi-system failures, interpreting schematics, and resolving complex technical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently building hands-on experience in:
+
+- Windows Server administration
+- Active Directory
+- Linux server management
+- networking fundamentals
+- cloud infrastructure
+
+## Homelab Projects
+
+These projects document the deployment and management of a small enterprise-style lab environment.
+
+homelab-infrastructure
+
+Key systems:
+
+DC01 – Windows Server domain controller  
+CLIENT01 – Windows 11 workstation  
+LINUX01 – Ubuntu server
+
+## Current Focus
+
+Developing practical system administration skills through hands-on labs and infrastructure projects.
